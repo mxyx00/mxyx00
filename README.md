@@ -2,6 +2,9 @@
 
 Talk to me about otters (sea otters and NA river otters only) and code. 🦦
 
+I'm currently working on: **Flight Economics Simulator**
+* Creating a program that simulates flights and calculates expenses! *
+
 <!--
 **mxyx00/mxyx00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
